@@ -1,4 +1,4 @@
-# InsightHR:Uncovering Workforce Attrition Trends
+# InsightHR: Uncovering Workforce Attrition Trends
 
 Welcome to **InsightHR**, a Power BI dashboard designed to analyze and visualize workforce attrition trends. This project presents a clear and structured view of employee turnover, highlighting patterns that support informed HR strategies.
 
